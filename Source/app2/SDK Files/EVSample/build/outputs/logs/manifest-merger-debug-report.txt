@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:3:5-39
+	android:versionName
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:5:5-39
+		INJECTED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml
+		INJECTED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml
+		INJECTED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:7:5-9:41
+MERGED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [SDK Files:EVServiceInterface:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceInterface\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:11:5-67
+MERGED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:11:22-64
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:13:5-89
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:13:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:14:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:15:5-88
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:15:30-85
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:16:22-64
+application
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:18:5-54:19
+MERGED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:20:5-44:19
+MERGED from [SDK Files:EVServiceInterface:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceInterface\unspecified\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:21:9-41
+	android:allowClearUserData
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:20:18-52
+	android:allowBackup
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:22:9-46
+activity#com.eyeverify.eyeprintid.DemoSplashActivity
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:23:9-31:20
+	android:configChanges
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:25:13-59
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:24:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:29:27-74
+activity#com.eyeverify.eyeprintid.MainActivity
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:32:9-34:62
+	android:configChanges
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:34:13-59
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:33:13-41
+activity#com.eyeverify.eyeprintid.WelcomeActivity
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:35:9-37:62
+	android:configChanges
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:37:13-59
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:36:13-44
+activity#com.eyeverify.eyeprintid.InstructionsActivity
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:38:9-40:62
+	android:configChanges
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:40:13-59
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:39:13-49
+activity#com.eyeverify.eyeprintid.EVCaptureActivity
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:41:9-43:62
+	android:configChanges
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:43:13-59
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:42:13-46
+activity#com.eyeverify.eyeprintid.SettingActivity
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:44:9-46:62
+	android:configChanges
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:46:13-59
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:45:13-44
+activity#com.eyeverify.eyeprintid.GroupIdActivity
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:47:9-49:63
+	android:label
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:49:13-60
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:48:13-44
+activity#com.eyeverify.eyeprintid.LanActivity
+ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:50:9-53:61
+	android:label
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:52:13-40
+	android:configChanges
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:53:13-59
+	android:name
+		ADDED from C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\AndroidManifest.xml:51:13-40
+uses-permission#android.permission.CAMERA
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:13:22-63
+uses-feature#android.hardware.camera
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:15:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:16:19-67
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:17:19-71
+service#com.eyeverify.remote.EyeVerifyRemoteService
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:21:9-36:19
+	android:enabled
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:23:13-35
+	android:process
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:25:13-38
+	android:exported
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:22:13-71
+intent-filter#com.eyeverify.IEyeVerifyRemoteService
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:26:13-28:29
+action#com.eyeverify.IEyeVerifyRemoteService
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:27:17-80
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:27:25-77
+meta-data#disableWebSettings
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:31:17-50
+meta-data#disableRegistration
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:33:13-35:41
+	android:value
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:35:17-38
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:34:17-51
+activity#com.eyeverify.activity.PermissionActivity
+ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:38:9-43:20
+	android:process
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:41:13-38
+	android:excludeFromRecents
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:40:13-46
+	android:theme
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:42:13-72
+	android:name
+		ADDED from [SDK Files:EVServiceImplementation:unspecified] C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\SDK Files\EVServiceImplementation\unspecified\AndroidManifest.xml:39:13-69

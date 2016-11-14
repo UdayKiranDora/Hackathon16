@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EVSample/EVSample.iml" filepath="$PROJECT_DIR$/EVSample/EVSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EVServiceImplementation/EVServiceImplementation.iml" filepath="$PROJECT_DIR$/EVServiceImplementation/EVServiceImplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EVServiceInterface/EVServiceInterface.iml" filepath="$PROJECT_DIR$/EVServiceInterface/EVServiceInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDK Files.iml" filepath="$PROJECT_DIR$/SDK Files.iml" />
+    </modules>
+  </component>
+</project>

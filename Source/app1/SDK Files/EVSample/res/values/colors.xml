@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_background_gradient_top">#29aab3</color>
+    <color name="app_background_gradient_bottom">#1fc39c</color>
+
+    <color name="ev_heading_text_error">#c00</color>
+    <color name="ev_heading_text_message">#FF555555</color>
+    <color name="ev_heading_text_done">#29aab3</color>
+
+    <color name="progress_bar_gradient_left">#1fc39c</color>
+    <color name="progress_bar_gradient_right">#29aab3</color>
+    <color name="counter_text_color">#1fc39c</color>
+
+    <color name="target_box_no_eyes">#777</color>
+    <color name="target_box_has_eyes">#1fc39c</color>
+
+    <color name="notification_text_color">#FF555555</color>
+    <color name="notification_text_color_complete">#FFF</color>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="17179823318412"
+    token="4826580879853238061"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="823" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2456" />
+    <task
+        name="verifier"
+        duration="984" />
+
+    <artifact
+        location="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\outputs\apk\EVSample-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="17179823318412"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\outputs\apk\EVSample-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

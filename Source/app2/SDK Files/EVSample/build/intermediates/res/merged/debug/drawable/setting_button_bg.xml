@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="false">
+        <layer-list>
+            <item
+                android:bottom="-1dp"
+                android:left="-1dp"
+                android:right="-1dp"
+                android:top="0dp">
+                <shape android:shape="rectangle" >
+                    <stroke
+                        android:width="1dp"
+                        android:color="#b9e7e8" />
+
+                    <solid android:color="#7c7d7f" />
+
+                    <padding android:left="0dp"
+                        android:right="0dp"
+                        android:top="0dp"
+                        android:bottom="0dp" />
+                </shape>
+            </item>
+            <item android:right="10dp">
+                <bitmap android:src="@drawable/right_arrow_disabled" android:gravity="right" />
+            </item>
+        </layer-list>
+    </item>
+    <item
+        android:state_pressed="true"
+        android:state_enabled="true">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid
+                        android:color="#fff" />
+                </shape>
+            </item>
+            <item android:right="10dp">
+                <bitmap android:src="@drawable/right_arrow_pressed" android:gravity="right" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_enabled="true">
+        <layer-list>
+            <item
+                android:bottom="-1dp"
+                android:left="-1dp"
+                android:right="-1dp"
+                android:top="0dp">
+                <shape android:shape="rectangle" >
+                    <stroke
+                        android:width="1dp"
+                        android:color="#b9e7e8" />
+
+                    <solid android:color="#7c7d7f" />
+
+                    <padding android:left="0dp"
+                        android:right="0dp"
+                        android:top="0dp"
+                        android:bottom="0dp" />
+                </shape>
+            </item>
+            <item android:right="10dp">
+                <bitmap android:src="@drawable/right_arrow" android:gravity="right" />
+            </item>
+        </layer-list>
+    </item>
+</selector>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="servicePackageId" translatable="false">com.eyeverify.eyeprintid</string>
+    <string name="app_name" translatable="false">Eyeprint ID</string>
+    <string name="button_title_cancel">Cancel</string>
+    <string name="button_title_continue">Continue</string>
+    <string name="button_title_keep_scanning">Keep Scanning</string>
+    <string name="button_title_start">Start</string>
+    <string name="button_title_scan_again">Scan Again</string>
+    <string name="small_notification_while_open" translatable="false">Small Notification while closed</string>
+    <string name="large_notification_or_error" translatable="false">Large Notification or Error</string>
+    <string name="countdown_number" translatable="false">6</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_title">Welcome</string>
+
+    <string name="capture_license_limited_suggestion">We’re sorry but your license key has reached its limit for users, please contact sales@eyeverify.com for a quick re-up</string>
+    <string name="capture_license_expired_suggestion">We’re sorry but your license key has passed its expiration date, please contact sales@eyeverify.com to renew</string>
+    <string name="capture_license_invalid_suggestion">It looks like the license key that you are using is not found, please try again or contact sales@eyeverify.com for assistance</string>
+    <string name="compliance_incompatible_heading">Device Not Supported</string>
+    <string name="compliance_incompatible_message">We’re sorry, EyeVerify does not currently support this device.  This model has been added to our device compatibility queue.  Please check back again soon.</string>
+    <string name="compliance_incompatible_view_devices">View Devices</string>
+
+    <string name="capture_enrollment_new_session">Good job.</string>
+    <string name="capture_enrollment_new_session_almost_done">Almost done.</string>
+    <string name="capture_noeye_error">We are not seeing your eyes</string>
+    <string name="capture_suggestion_no_eye">If you are wearing glasses, please remove them</string>
+    <string name="capture_error_quality">Keep Scanning</string>
+    <string name="capture_suggestion_quality">For best results, hold still during scan</string>
+    <string name="capture_error_not_supported">EyeVerify does not currently support this device</string>
+    <string name="capture_suggestion_not_supported">This model has been added to our device compatibility queue. Please check back again soon.</string>
+    <string name="capture_error_not_enrolled">Please keep still while scanning</string>
+    <string name="capture_suggestion_wipe_camera">Try wiping the camera lens to remove any smudges</string>
+    <string name="capture_error_distance">We don’t have the distance right</string>
+    <string name="capture_suggestion_distance">Move the device closer so your eyes fill the screen</string>
+    <string name="capture_error_system">System error</string>
+    <string name="capture_suggestion_system">If the problem persists, report the error to the technical support</string>
+    <string name="capture_error_internet">Unable to access the internet</string>
+    <string name="capture_suggestion_internet">Please ensure that this device has access to the network</string>
+    <string name="capture_error_enrollment_match">Keep scanning</string>
+    <string name="capture_suggestion_enrollment_match">When creating your first Eyeprint, good lighting helps</string>
+    <string name="capture_error_chaff">Server data not found</string>
+    <string name="capture_suggestion_chaff">If the problem persists, please re-enroll</string>
+    <string name="capture_error_background">Scan not completed</string>
+    <string name="capture_suggestion_background">Click Retry to scan again</string>
+    <string name="capture_error_low_lighting">The lighting is insufficient for the current operation</string>
+    <string name="capture_suggestion_low_lighting">We need you to move to a more well lit area and press the keep scanning button.</string>
+    <string name="capture_error_not_verified">Not Verified</string>
+    <string name="capture_suggestion_enrollment_new_session">Keep scanning to create your Eyeprint.</string>
+    <string name="capture_message_align">Position your eyes in the window</string>
+    <string name="capture_message_distance">Move device closer</string>
+    <string name="enroll_completed_message">Great, we got it.</string>
+    <string name="enroll_incomplete_message">We could not enroll you</string>
+    <string name="enroll_done_message">Now you can verify with your Eyeprint</string>
+    <string name="enroll_retry_message">You will have to retry enrollment.</string>
+
+    <string name="main_enrollment_success">Enrolled</string>
+    <string name="main_enrollment_failure">Not Enrolled</string>
+    <string name="main_verify_success">Verified</string>
+    <string name="main_verify_failure">Not Verified</string>
+
+    <string name="main_recreate_button">Recreate Eyeprint</string>
+    <string name="main_create_button">Create Eyeprint</string>
+
+
+    <string name="enroll_heading">Enter a username to create a new Eyeprint or login with an existing username</string>
+    <string name="username_hint">Username</string>
+    <string name="enroll_button">Create an Eyeprint</string>
+    <string name="verify_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="user_ok_button" translatable="false">Ok</string>
+    <string name="user_cancel_button">Cancel</string>
+    <string name="change_language">中文</string>
+    <string name="settings_button" translatable="false">Settings</string>
+
+    <string name="capture_scan_again_button">Keep Scanning</string>
+    <string name="capture_cancel_button">Cancel</string>
+    <string name="capture_continue_button">Continue</string>
+    <string name="meena_button">Go to App</string>
+
+    <string name="splash_copyright" translatable="false">Copyright &#169; 2015 EyeVerify. All rights reserved.</string>
+
+
+    <string name="welcome_message">Welcome.\n\nOne look opens up mobile devices, logs you into apps, and secures your mobile payments.</string>
+    <string name="welcome_continue_button">Get Started</string>
+
+    <string name="instructions_heading">Press Start after reading the instructions below:</string>
+    <string name="instructions_message_1">Move the device closer so your eyes fill the screen</string>
+    <string name="instructions_message_2">Countdown will display during scan</string>
+    <string name="instructions_message_3">Hold still and look into the camera</string>
+    <string name="instructions_message_4">Repeat scans until Eyeprint is created</string>
+    <string name="instructions_start_button">Start</string>
+
+    <string name="capture_closed_incomplete_message">Incomplete process, you will have to retry.</string>
+
+    <string name="eula_heading" translatable="false">EyeVerify EULA</string>
+    <string name="eula_button" translatable="false">Accept</string>
+    <string name="eula_text" translatable="false">This EyeVerify End User License Agreement (“EULA”) is an agreement between you as the end user of EyeVerify’s software (“you”) and EyeVerify, LLC, a Kansas limited liability company (“EyeVerify”) regarding your use of and access to the EyeVerify Eyeprint Demo (the “Product”).  You are being licensed to use the Product as part of the Software provided to you by a licensee of EyeVerify (the “Licensee”) pursuant to a license agreement with EyeVerify (the “Agreement”).  This EULA becomes effective upon the earlier of your electronic acceptance of its terms or your access to or use of the Product. BY ACCESSING OR USING THE PRODUCT OR OTHERWISE INDICATING ACCEPTANCE YOU ACKNOWLEDGE THAT YOU HAVE READ THIS EULA, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+\n
+\n
+\nSECTION 1.  DEFINITIONS
+\n“Confidential Information” shall mean (a) all nonpublic information concerning the business, technology, products, services, internal structure and strategies of EyeVerify, specifically including, without limitation, the Product and content and information made available in conjunction therewith, documentation, end-user materials, Intellectual Property, proposals, designs, concepts, methodologies, inventions, source or object code, developments, research, programs, databases, referral sources, customers, prospective customers, inventions, developments, “know-how”, procedures, financial information or licensing policies and (b) any other information clearly labeled by EyeVerify or its licensors in writing as “confidential” prior to its disclosure.
+\n“Intellectual Property” shall mean all intangible legal rights or interests evidenced by or embodied in (a) any idea, design, concept, technique, invention, discovery or improvement, regardless of patentability, but including patents, patent applications, trade secrets, and know-how; (b) any work of authorship, regardless of copyrightability, but including copyrights and any moral rights recognized by law; (&#99;) any trademark, trade name or service mark; and (d) any other intellectual property, proprietary or similar rights, including all goodwill pertaining thereto and in each case, on a worldwide basis.
+\n“Product” shall mean the Product software (including related documentation, content and materials provided in conjunction therewith) as licensed to Licensee pursuant to the Agreement and to you through this EULA, including any changes, modifications, improvements and enhancements provided by EyeVerify to Licensee and subsequently to you.  Your use of the Product shall be subject to the terms of this EULA.  The Product may include or incorporate software or content developed or provided by third parties.  Your use of such third party software shall be subject to the terms and conditions of any third party license agreements associated with such software or content, and you are solely responsible for your compliance with such terms and conditions.
+\n“Software” shall mean the application or other software provided by Licensee to you which contains the Product as a part of such software.
+\n
+\n
+\nSECTION 2.  GRANT OF LICENSE
+\n2.1 Grant of License.  Subject to the terms and conditions of this EULA, EyeVerify grants to you a limited, non-exclusive, non-transferable, non-sublicensable license to use and/or access the Product in executable form as contained within the Software and subject to the user, version, module and quantity limitations identified and set forth in the license agreement between you and Licensee for the Software.  The foregoing licenses to the Product shall be solely for your internal non-commercial purposes for the license term specified in your agreement with Licensee.  You shall not permit access to or use of the Product by persons who are not authorized users.
+\n2.2 Prohibitions.  Under no circumstances may you modify, create derivative works based on, decompile, reverse compile, disassemble or reverse engineer the Product, or grant any other person or entity the right or access to do so, without the advance written consent of EyeVerify (except as specifically allowed under applicable copyright or other laws).  Except as expressly authorized by this EULA, you shall not unbundle, sublicense, assign, transfer, display, distribute, rent, or lease the Product or any portion thereof to any third party.  You may not access or utilize the Product for competitive purposes or to develop software or services competitive with the Product.
+\n2.3 Reserved Rights.  All rights not specifically granted to you hereunder are reserved by EyeVerify.  Nothing herein shall prevent EyeVerify or its licensors from promoting, providing, licensing or sublicensing use of or access to the Product or providing any services to other parties.
+\n
+\n
+\nSECTION 3.  OBLIGATIONS OF THE PARTIES
+\n3.1 General Technological Obligations.  As between EyeVerify and you, you will have the sole responsibility for acquiring, installing and maintaining your own technology environment, software and equipment necessary to properly access and utilize the Product, for any communications or other costs incurred in operating, using, updating, maintaining, supporting and servicing the Product, and for any expenses relating to the foregoing.  You shall establish adequate operational back-up systems and procedures to ensure recovery and continuity of its systems and operations in the event of a failure of the Product.
+\n3.2 Authorized Use.  You are responsible for ensuring that only you access and use the Product in accordance with this EULA and your agreement with Licensee and that you do not make unauthorized use of the Product.  You shall use your best efforts to ensure that EyeVerify’s Confidential Information and the EyeVerify Intellectual Property are kept secure and protected from unauthorized access or disclosure.
+\n3.3 Implementation.  EyeVerify shall have no obligation to participate, assist or provide consultations to you in connection with implementation, training or use of the Product.
+\n3.4 Updates; Maintenance and Support.   Nothing herein requires EyeVerify to create or develop any modifications, improvements and enhancements to the Product (“Updates”) or deliver any Updates to you.  EyeVerify makes no representations or warranties regarding the Updates or the compatibility of any Updates.  Any Updates so provided shall be licensed on the same terms as the Product is licensed pursuant to this EULA.  EyeVerify shall have no obligation to maintain the Product or provide any support in connection with the Product except as set forth in a separate written services agreement.
+\n
+\n
+\nSECTION 4.  TERM &amp; TERMINATION
+\n4.1 Term.  This EULA shall remain in effect until the earlier of (a) the termination of your license to use the Software; or (b) the termination of this EULA as set forth herein.
+\n4.2 Termination With Cause.  EyeVerify may immediately suspend or terminate this EULA and your license to use and access the Product upon written notice (a) in the event you breach any of the terms of this EULA, or (b) in the event you violate any EyeVerify Intellectual Property rights.
+\n4.3 Consequences Upon Termination.  Upon the termination or expiration of this EULA for any reason, (a) your license(s) to the Product shall immediately and automatically terminate, you shall cease all access to and use of the Product, and you shall not thereafter use, advertise, or display any EyeVerify Intellectual Property, (b) you shall immediately return to EyeVerify all EyeVerify Intellectual Property and any other property, equipment and materials provided to you by EyeVerify (whether modified or unmodified), or immediately destroy such property at EyeVerify’s sole option, and (&#99;) you shall certify your compliance with this section to EyeVerify in writing.
+\n
+\n
+\nSECTION 5.  WARRANTY DISCLAIMERS &amp; LIMITATION OF LIABILITY
+\n5.1 Disclaimer.  TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW AND EXCEPT AS OTHERWISE EXPRESSLY SET FORTH HEREIN, THE PRODUCT IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, AND EYEVERIFY MAKES NO WARRANTIES REGARDING THE PRODUCT OR ANY UPDATES, EXPRESS, IMPLIED OR OTHERWISE.  EYEVERIFY DISCLAIMS ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT AND ANY AND ALL OTHER WARRANTIES, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY, GUARANTEE, OR REPRESENTATION AS TO RESULTS, PERFORMANCE, RELIABILITY, INTEROPERABILITY, FUNCTIONALITY, SUITABILITY, ACCURACY, COMPLETENESS, OR SECURITY, WHETHER ALLEGED TO ARISE BY OPERATION OF LAW, BY REASON OF CUSTOM OR USAGE IN THE TRADE, BY COURSE OF DEALING OR OTHERWISE.
+\n5.2 Limitation of Liability.  TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, UNDER NO CIRCUMSTANCES SHALL EYEVERIFY BE LIABLE TO YOU OR TO ANY THIRD PARTIES FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES FOR ANY MATTER ARISING FROM OR RELATING TO THIS EULA, THE PRODUCT OR ANY UPDATES PROVIDED, INCLUDING, WITHOUT LIMITATION, YOUR USE OR INABILITY TO USE THE PRODUCT, WHETHER SUCH LIABILITY IS ASSERTED ON THE BASIS OF CONTRACT, TORT OR OTHERWISE AND EVEN IF EYEVERIFY WAS INFORMED OF THE POSSIBILITY OF SUCH DAMAGES.  IN THE EVENT THAT EYEVERIFY IS FOUND LIABLE FOR DIRECT DAMAGES, IN NO EVENT SHALL EYEVERIFY’S TOTAL LIABILITY FOR DIRECT DAMAGES EXCEED AN AMOUNT EQUAL TO PORTION OF LICENSE FEES, IF ANY, PAID BY YOU TO LICENSEE FOR THE SOFTWARE THAT ARE ATTRIBUTABLE TO THE PRODUCT.
+\nTHE DISCLAIMER OF WARRANTIES AND THE LIMITATION OF LIABILITY AND REMEDY ARE A REFLECTION OF THE RISKS ASSUMED BY THE PARTIES IN ORDER FOR EYEVERIFY TO PROVIDE AND FOR YOU TO OBTAIN ACCESS TO AND USE OF THE PRODUCT.
+\n5.3 Indemnification by You.  You shall indemnify, defend and hold EyeVerify, and its officers, shareholders, directors, employees, agents and affiliates (each, a “EyeVerify Indemnified Party”) harmless from and against any and all costs, liabilities, losses and expenses, including, but not limited to, reasonable attorneys’ fees resulting from or arising out of any claim, suit, action, arbitration or proceeding brought or threatened by a third party against any EyeVerify Indemnified Party relating to: (a) a breach or alleged breach by you of any of your representations, warranties, covenants or obligations hereunder, (b) your use, misuse or failure to use the Product, or (&#99;) infringement or misappropriation of any EyeVerify Intellectual Property or the Intellectual Property rights of any third party by you.
+\n
+\n
+\nSECTION 6.  INTELLECTUAL PROPERTY RIGHTS
+\n6.1 Intellectual Property Rights.  As between the parties, EyeVerify shall have and retain sole ownership of all Intellectual Property comprising the Product as well as any Updates created by the Product (collectively, the “EyeVerify Intellectual Property”).  EyeVerify hereby grants to you the limited right and license to use the EyeVerify Intellectual Property comprising the Product pursuant to the terms and conditions of this EULA.  This EULA does not effect any transfer of title or other interest in or to the Product or the EyeVerify Intellectual Property, and you hereby disclaim any right, title and interest that you may have or gain therein.  You shall not contest or aid in contesting the ownership or validity of any EyeVerify Intellectual Property or any applications or registrations relating thereto.
+\n6.2 Confidential Information.  As a result of your access to the Product, you will have access to certain Confidential Information of EyeVerify.  You shall maintain the secrecy of all such Confidential Information disclosed to you. You shall not use, disclose or otherwise exploit any Confidential Information for any purpose not specifically authorized pursuant to this EULA; provided that, you may produce information solely in compliance with any law, court or administrative order. You shall give EyeVerify reasonable notice under the circumstances and to the extent permitted by law that such Confidential Information is being sought by a third party so as to afford EyeVerify the opportunity to limit or prevent such disclosure.  All files, lists, records, documents, drawings, documentation, end-user materials, specifications, equipment and computer programs that incorporate or refer to any Confidential Information shall be returned, deleted or destroyed by the you promptly upon termination or expiration of this EULA.
+\n6.3 Remedies.  You agree that a breach of Sections 2, 3.2, 6.1, or 6.2 will cause EyeVerify irreparable injury and damage.  You expressly agree that EyeVerify shall be entitled to injunctive and other equitable relief to prevent such a breach, in addition to any other remedy to which EyeVerify might be entitled.  The parties waive the posting of any bond or surety prior to the issuance of an injunction hereunder.  In the event a court refuses to honor the waiver of bond hereunder, the parties expressly agree to a bond in the amount of $100.00.  All remedies for such a breach shall be cumulative and the pursuit of one remedy shall not be deemed to exclude any other remedy with respect to the subject matter hereof.
+\n6.4 Right to Use De-Identified Data. You expressly grant to EyeVerify a perpetual, irrevocable, royalty-free, right and license to use, reproduce, adapt, perform, compile, display, incorporate, modify and create derivative and collective works utilizing your data, including any “eyeprint” verifications and performance or usage metrics, in a de-identified format for any lawful purpose, including without limitation benchmarking or best practices, product and service development and research and statistical purposes without reimbursement or further notification, consent or authorization from you.
+\n
+\n
+\nSECTION 7.  GENERAL PROVISIONS
+\n7.1 Entire Agreement; Amendment.  This EULA, including any documents or other agreements specifically referenced herein and incorporated by this reference, constitutes the entire agreement of the parties with respect to your access to the Product and supersedes all prior agreements, both oral and written, with respect to the Product.  Except as otherwise provided herein, no amendment or modification of this EULA shall be effective unless in writing and signed by both parties.  The terms and conditions of any inconsistent present or future purchase order submitted by you shall not alter the terms of this EULA unless expressly consented to in writing by EyeVerify.  No use of trade or other regular practice or method of dealing between the parties shall be used to modify, interpret, supplement or alter in any manner the terms of this EULA.
+\n7.2 Electronic Agreement.  This EULA may be agreed to and executed electronically.  The parties consent to the use of electronic methods of acknowledgement and electronic signatures and agree that use of the Product or an electronic signature relating to this EULA is the legal equivalent of a manual signature.  The parties also agree that no certification authority or other third party verification is necessary to validate their electronic signature, and the lack of such certification or third party verification will not in any way affect the enforceability of an electronic signature or any resulting agreement between the parties.
+\n7.3 Severability.  If any term or provision of this EULA shall be held to be invalid, illegal or unenforceable, the remaining terms and provisions of this EULA shall remain in full force and effect, and such invalid, illegal or unenforceable term or provision shall be deemed not to be part of this EULA.
+\n7.4 Governing Law; Venue.  This EULA shall be governed by and construed, interpreted, and enforced in accordance with the laws of the State of Kansas, without reference to its conflicts or choice of law principles.  The parties agree that the sole and exclusive jurisdiction and venue for any and all disputes arising under this EULA shall be in any trial court located in or having jurisdiction over Johnson County, Kansas.  Each of the parties hereby irrevocably submits and consents to personal jurisdiction in the State of Kansas.
+\n7.5 Notices.  Any notice required hereunder shall be delivered by hand, by courier service, or by certified mail (return receipt requested, postage prepaid) to the address provided by the party to be notified.  Either party may change the referenced addresses and contact information by written notice to the other in accordance with this Section.  Notices shall be effective: (a) as of the date personally delivered if by hand or (b) for notices sent by certified mail, five (5) business days after the postmark date, or (&#99;) upon receipt if sent by courier service such as Federal Express, U.P.S., or DHL.  Notices also may be delivered by electronic means (including, without limitation, via email) and notices so delivered shall be effective upon actual receipt of the electronic transmission.
+\n7.6 Survival.  The provisions of Sections 1, 2, 4.3, 5, 6 and 7 shall survive the termination or expiration of this EULA and shall remain in full force and effect.
+\n7.7 Waiver.  Except as specifically provided in a written waiver signed by a duly authorized representative of the party seeking enforcement, the failure to enforce or the waiver of any term of this EULA shall not constitute the waiver of such term at any time or in any circumstances and shall not give rise to any restriction on or condition to the prompt, full and strict enforcement of the terms of this EULA.
+\n7.8 Assignment and Benefit.  You may not assign this EULA without the prior written consent of EyeVerify.  This EULA shall be binding upon and shall inure to the benefit of you and EyeVerify and its successors and permitted assigns, subject to the other provisions of this Section.
+\n7.9 Force Majeure.  Each party to this EULA shall be excused from any delay or failure in its performance hereunder, other than for payment of money, caused by any disruption or slow speed of the Internet, break-downs of security or introduction of computer viruses (and the like) by third parties, any labor dispute, government requirement, act of God, or any other cause beyond its reasonable control.
+\n7.10 Third Parties.  Nothing in this EULA, express or implied, shall create or confer upon any person or entity not a named party to this EULA any legal or equitable rights, remedies, liabilities or claims with respect to this EULA, except as expressly provided herein.
+\n7.11 Export Restrictions.  You shall comply with the export laws and regulations of the United States and other applicable jurisdictions in using the Product.  Without limiting the generality of the foregoing, you represent that (a) you are not named on or acting on behalf of any person or entity named on any U.S. or other applicable government list of persons or entities prohibited from engaging in transactions, and (b) you shall not access or use the Product in violation of any U.S. or other applicable countries’ export embargo, prohibition or restriction.  You recognize and acknowledge that some countries have restrictions on the use of encryption within their borders or the import or export of encryption even if only for temporary personal or business use, and you further acknowledge and agree that you are ultimately responsible for complying with any and all government import, export and other applicable laws.
+\n7.12 U.S. Government End Users.  The Product is a “commercial item,” as that term is defined in 48 C.F.R. 2.101 (Oct. 1995), consisting of “commercial computer software” and “commercial computer software documentation,” as such terms are used in 48 C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S. Government End Users acquire the Product with only those rights set forth in this EULA.</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="learn_more" translatable="false">Learn More</string>
+    <string name="request_group_id" translatable="false">Request Group ID</string>
+    <string name="license_screen_heading" translatable="false">Use this Data Collection app to test the Eyeprint ID technology.</string>
+    <string name="group_id" translatable="false">Group Id</string>
+    <string name="OK" translatable="false">OK</string>
+    <string name="title_activity_group_id" translatable="false">GroupIdActivity</string>
+    <string name="error_empty_license_title" translatable="false">Invalid Group ID</string>
+    <string name="error_empty_license_message">Group ID is required</string>
+</resources>

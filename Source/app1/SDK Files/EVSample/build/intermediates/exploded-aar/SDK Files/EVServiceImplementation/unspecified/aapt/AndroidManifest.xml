@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.eyeverify"
+    android:versionCode="31"
+    android:versionName="2.8.7" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.sensor.accelerometer" />
+
+<!--             android:permission="com.eyeverify.evservice.permission.WAKE_EV_EYEPRINT" -->
+    <application android:allowClearUserData="false" >
+        <service
+            android:name="com.eyeverify.remote.EyeVerifyRemoteService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":remote" >
+            <intent-filter>
+                <action android:name="com.eyeverify.IEyeVerifyRemoteService" />
+            </intent-filter>
+
+            <meta-data
+                android:name="disableWebSettings"
+                android:value="true" />
+            <meta-data
+                android:name="disableRegistration"
+                android:value="false" />
+        </service>
+
+        <activity
+            android:name="com.eyeverify.activity.PermissionActivity"
+            android:excludeFromRecents="true"
+            android:process=":remote"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+    </application>
+
+</manifest>

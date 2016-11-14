@@ -1,0 +1,14 @@
+<com.eyeverify.ui.views.CaptureRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tag="default"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:animateLayoutChanges="false"
+    android:keepScreenOn="true">
+
+    <TextureView
+        android:id="@+id/layout_camera_view"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</com.eyeverify.ui.views.CaptureRelativeLayout>

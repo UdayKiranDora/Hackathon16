@@ -1,0 +1,99 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EVCaptureActivity"
+    android:orientation="vertical"
+    android:background="#fff">
+
+    <RelativeLayout
+        android:id="@+id/capture_window"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <RelativeLayout
+            android:id="@+id/capture_overlay"
+            android:visibility="invisible"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.eyeverify.eyeprintid.TargetRectangle
+                android:id="@+id/capture_target_box"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            </com.eyeverify.eyeprintid.TargetRectangle>
+
+            <View
+                android:id="@+id/left_eye_box"
+                android:visibility="invisible"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/rectangle" />
+
+            <View
+                android:id="@+id/right_eye_box"
+                android:visibility="invisible"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/rectangle" />
+
+            <TextView android:id="@+id/capture_counter_text" style="@style/capture_counter_text" />
+            <ImageView android:id="@+id/capture_complete_checkmark" style="@style/capture_complete_checkmark"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/capture_progress_and_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/capture_window">
+
+        <ProgressBar android:id="@+id/capture_enroll_progress" style="@style/progress_bar" />
+        <TextView android:id="@+id/capture_notification_text" style="@style/progress_bar_text"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/capture_progress_large_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_below="@id/capture_progress_and_text">
+
+        <TextView android:id="@+id/capture_large_notification_text" style="@style/capture_heading_text"
+            android:layout_height="58dp" />
+
+    </LinearLayout>
+
+    <TextView android:id="@+id/capture_sub_notification_text" style="@style/capture_sub_heading_text"
+        android:layout_below="@+id/capture_progress_large_notification"
+        android:layout_alignLeft="@+id/capture_progress_large_notification"
+        android:layout_alignStart="@+id/capture_progress_large_notification"
+        android:layout_alignRight="@+id/capture_progress_large_notification"
+        android:layout_alignEnd="@+id/capture_progress_large_notification"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true">
+
+        <Button style="@style/capture_scan_again_button" android:id="@+id/capture_scan_again_button" android:text="@string/capture_scan_again_button"
+            android:layout_height="58dp" />
+        <Button style="@style/capture_cancel_button" android:id="@+id/capture_cancel_button" android:text="@string/capture_cancel_button"
+            android:layout_height="58dp" />
+        <Button style="@style/capture_continue_button" android:id="@+id/capture_continue_button" android:text="@string/capture_continue_button"
+            android:layout_height="58dp" />
+        <Button style="@style/capture_continue_button" android:id="@+id/meena_button" android:text="@string/meena_button"
+            android:layout_height="58dp" />
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="EVServiceInterface-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EVSample/build/intermediates/exploded-aar/SDK Files/EVServiceInterface/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/EVSample/build/intermediates/exploded-aar/SDK Files/EVServiceInterface/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

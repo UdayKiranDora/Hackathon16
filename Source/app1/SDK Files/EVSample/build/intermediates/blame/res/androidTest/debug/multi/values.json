@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 42,
+                        "endOffset": 198
+                    }
+                }
+            }
+        ]
+    }
+]

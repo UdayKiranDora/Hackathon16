@@ -1,0 +1,16 @@
+package com.eyeverify.eyeprintid;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.widget.EditText;
+
+public class LanActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_lan);
+        EditText t1=(EditText)findViewById(R.id.editText);
+        t1.setText("hey");
+    }
+}

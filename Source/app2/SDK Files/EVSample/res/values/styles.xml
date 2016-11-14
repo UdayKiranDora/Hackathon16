@@ -1,0 +1,186 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="EyeVerifyTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="splash_copyright" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">20dp</item>
+    </style>
+
+    <style name="title_text" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:padding">40dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="heading_text" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="sub_heading_text" parent="@style/heading_text">
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+    </style>
+
+    <style name="instructions_message">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">5dp</item>
+    </style>
+
+    <style name="instructions_message_text" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+    </style>
+
+    <style name="capture_heading_text" parent="heading_text">
+        <item name="android:textColor">#555</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="capture_sub_heading_text" parent="sub_heading_text">
+        <item name="android:textColor">#555</item>
+    </style>
+
+    <style name="capture_counter_text" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/counter_text_color</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:textSize">60sp</item>
+    </style>
+
+    <style name="capture_complete_checkmark">
+        <item name="android:layout_width">70dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:src">@drawable/complete_checkmark</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">80dp</item>
+    </style>
+
+    <style name="progress_bar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:progressDrawable">@drawable/progress_bar</item>
+    </style>
+
+    <style name="progress_bar_text" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="wide_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/wide_button_left_bg</item>
+        <item name="android:textColor">@drawable/wide_button_text_color</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:textSize">20dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:paddingLeft">15dp</item>
+    </style>
+
+    <style name="wide_button_left" parent="wide_button">
+        <item name="android:background">@drawable/wide_button_left_bg</item>
+        <item name="android:paddingLeft">40dp</item>
+    </style>
+
+    <style name="wide_button_right" parent="wide_button">
+        <item name="android:background">@drawable/wide_button_right_bg</item>
+    </style>
+
+    <style name="setting_button" parent="wide_button">
+        <item name="android:background">@drawable/setting_button_bg</item>
+    </style>
+
+    <style name="capture_button" parent="wide_button_right">
+        <item name="android:textColor">@drawable/capture_button_text_color</item>
+    </style>
+
+    <style name="capture_scan_again_button" parent="capture_button">
+        <item name="android:background">@drawable/capture_scan_again_button_bg</item>
+    </style>
+
+    <style name="capture_cancel_button" parent="capture_button">
+        <item name="android:background">@drawable/capture_cancel_button_bg</item>
+    </style>
+
+    <style name="capture_continue_button" parent="capture_button">
+        <item name="android:background">@drawable/capture_continue_button_bg</item>
+        <item name="android:paddingLeft">40dp</item>
+    </style>
+
+    <style name="username_text" parent="wide_button">
+        <item name="android:background">@drawable/wide_button_username_v_on_bg</item>
+        <item name="android:textColorHint">#fff</item>
+        <item name="android:inputType">textNoSuggestions|textVisiblePassword</item>
+        <item name="android:imeOptions">actionDone</item>
+        <item name="android:ems">13</item>
+        <item name="android:hint">@string/username_hint</item>
+    </style>
+
+    <style name="groupid_text" parent="wide_button">
+        <item name="android:background">@drawable/wide_button_group_id_bg</item>
+        <item name="android:textColorHint">#fff</item>
+        <item name="android:inputType">textNoSuggestions|textVisiblePassword</item>
+        <item name="android:imeOptions">actionDone</item>
+        <item name="android:ems">13</item>
+        <item name="android:hint">@string/group_id</item>
+    </style>
+
+    <style name="bottom_bar">
+        <item name="android:background">#07717f</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textSize">16dip</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="bottom_bar_text" parent="@android:style/Widget.TextView">
+        <item name="android:background">@null</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="bottom_bar_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@null</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">16dip</item>
+        <item name="android:focusable">false</item>
+        <item name="android:clickable">true</item>
+    </style>
+</resources>

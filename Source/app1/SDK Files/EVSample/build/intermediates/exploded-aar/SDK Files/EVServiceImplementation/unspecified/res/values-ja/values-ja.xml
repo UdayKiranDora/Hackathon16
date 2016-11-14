@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera_rationale_message">見るだけ解除を使うには、EVServiceにカメラへのアクセス権限を付与してください。</string>
+</resources>

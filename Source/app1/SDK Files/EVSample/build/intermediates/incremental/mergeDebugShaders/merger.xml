@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Random\Desktop\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Random\Desktop\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build-types\debug\shaders"/></dataSet></merger>

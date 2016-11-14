@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_app_background"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/eyeverify_logo_tagline"
+        android:layout_marginTop="50dp" />
+
+    <TextView
+        style="@style/title_text"
+        android:layout_weight="1.0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/enroll_heading"
+        android:layout_gravity="center_horizontal" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <AutoCompleteTextView style="@style/username_text" android:id="@+id/user_entry_username_field"
+            android:layout_height="75dp" />
+
+        <Button style="@style/wide_button_right" android:id="@+id/user_entry_enroll_button" android:text="@string/enroll_button"
+            android:layout_height="75dp" />
+
+        <Button style="@style/wide_button_right" android:id="@+id/user_entry_verify_button" android:text="@string/verify_button"
+            android:layout_height="75dp" />
+
+
+
+        <Button style="@style/setting_button" android:id="@+id/user_entry_setting_button" android:text="@string/settings_button"
+            android:layout_height="50dp" />
+
+        <RelativeLayout
+            style="@style/bottom_bar">
+
+            <TextView
+                style="@style/bottom_bar_text"
+                android:id="@+id/user_entry_version_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"/>
+
+            <Button style="@style/bottom_bar_button"
+                android:id="@+id/user_entry_language_button"
+                android:text="@string/change_language"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

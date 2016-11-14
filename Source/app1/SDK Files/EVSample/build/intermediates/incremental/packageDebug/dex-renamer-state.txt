@@ -1,0 +1,7 @@
+#Sun Nov 13 23:10:43 CST 2016
+base.0=C\:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_93603bc5690beba2ccf41b9d2af5c1816d19ef99
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_365afef4c75af537240ea97f65caadbd6328f39d\\classes.dex
+base.1=C\:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_365afef4c75af537240ea97f65caadbd6328f39d
+file.0=C\:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_93603bc5690beba2ccf41b9d2af5c1816d19ef99\\classes.dex

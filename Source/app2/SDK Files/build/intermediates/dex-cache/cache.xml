@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Random\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_2315526265dcbe9b9c48ca937822ae04f2876cec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98c31b53686527c24511e9f00ebf14675d140b98">
+        <dex dex="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3023e3963ec214b373988123ea793fa79a8ea56b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_0dd77d34f86c51aeb5093375e52a6e696ce132d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_bf623769facb3197491f85184d82a991df5b9361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_a2fd5412141bf9639469f6062786596208f499f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="32c64ed283cdea98de0af390571f0ae0400a9b60">
+        <dex dex="C:\Users\Random\Desktop\Hackthon\EyeVerify_Android_SDK_v2.8.7-71d8f6d\SDK Files\EVSample\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1285c2a709338f3a9b47cdb945308613ea2132a2\classes.dex" />
+    </item>
+
+</items>

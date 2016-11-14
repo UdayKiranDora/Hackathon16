@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\left_slide_in.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\res\\anim\\left_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\right_slide_out.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\res\\anim\\right_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\left_slide_out.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\res\\anim\\left_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\build\\intermediates\\res\\merged\\debug\\anim\\right_slide_in.xml",
+        "source": "C:\\Users\\Random\\Desktop\\EyeVerify_Android_SDK_v2.8.7-71d8f6d\\SDK Files\\EVSample\\res\\anim\\right_slide_in.xml"
+    }
+]
