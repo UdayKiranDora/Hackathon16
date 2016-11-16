@@ -66,7 +66,7 @@ public class WelcomeActivity extends BaseActivity {
         }
         if(p==1)
         {
-            return 0;
+            return prime(d);
 
     }
         else
